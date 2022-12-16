@@ -2,13 +2,11 @@
     <string name="app_name">About Me</string>
     <string name="name">Yoichi Isagi</string>
     <string name="yellow_star">Yellow star</string>
-
     <string name="bio">
-        \n\Isagi est un adolescent assez grand avec une musculature moyenne, mais avec le temps, il développe un physique plus fort.
-        \n\Il a les cheveux courts bleu foncé dans le manga mais les cheveux noirs dans l\'anime. Ses cheveux laissent une frange en forme de V entre ses yeux bleus.
-        \n\Quand il était au lycée Ichinan, il portait un blazer déboutonné sur un maillot de corps blanc et une cravate rayée.
-        \n\Le maillot Ichinan High et l'uniforme de gymnastique sont de couleur claire avec des rayures noires.
-
+        Isagi est un adolescent assez grand avec une musculature moyenne, mais avec le temps, il développe un physique plus fort.\n\
+        Il a les cheveux courts bleu foncé dans le manga mais les cheveux noirs dans l\'anime. Ses cheveux laissent une frange en forme de V entre ses yeux bleus.\n\
+        Quand il était au lycée Ichinan, il portait un blazer déboutonné sur un maillot de corps blanc et une cravate rayée.\n\
+        Le maillot Ichinan High et l\'uniforme de gymnastique sont de couleur claire avec des rayures noires.
     </string>
     <string name="what_is_your_nickname">What is your Nickname?</string>
     <string name="done">Done</string>
